@@ -1,0 +1,22 @@
+{
+  "name": "tdc-welcome",
+  "version": "1.0.0",
+  "description": "Starting Windows Program of TDC Computer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/theduckcreator/tdc-welcome",
+  "keywords": [
+    "Electron",
+    "tdc",
+    "start",
+    "demo"
+  ],
+  "author": "TheDuckCreator",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^3.0.5",
+    "electron-packager": "^12.2.0"
+  }
+}
